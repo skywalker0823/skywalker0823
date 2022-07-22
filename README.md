@@ -1,4 +1,4 @@
-### Hi 🙂
+### Hi 🙂 I wish I got time to make my profile prettier.
 <!--
 **skywalker0823/skywalker0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
