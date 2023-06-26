@@ -1,6 +1,4 @@
-### Do not go gentle into that good night,
-### Old age should burn and rave at close of day;
-### Rage, rage against the dying of the light.
+### Do not go gentle into that good night.
 <!--
 **skywalker0823/skywalker0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
