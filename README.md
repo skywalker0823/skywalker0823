@@ -34,7 +34,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skywalker0823&theme=dark&ring=CF7336&file=fb4362&currStreakNum=CF7336&currStreakLabel=CF7336&hide_border=true)](https://git.io/streak-stats)
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywalker0823&hide_border=true&show_icons=true&bg_color=151515&title_color=CF7336&icon_color=CF7336&text_bold=false&text_color=9e9e9e)
+![](https://github-readme-stats.vercel.app/api?username=skywalker0823&hide_border=true&show_icons=true&bg_color=151515&title_color=CF7336&icon_color=CF7336&text_bold=false&text_color=9e9e9e)
 
 
 ![](https://komarev.com/ghpvc/?username=skywalker0823&color=CF7336)
