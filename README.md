@@ -38,3 +38,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=skywalker0823&color=CF7336)
+
+<a href="https://app.daily.dev/pikxl"><img src="https://api.daily.dev/devcards/v2/3nELliFsKxf0gPti2c91L.png?type=default&r=vdz" width="356" alt="Pikxl_<'s Dev Card"/></a>
